@@ -161,7 +161,7 @@
     "@types/classnames": "^2.2.8",
     "@types/enzyme": "^3.10.5",
     "@types/gtag.js": "^0.0.3",
-    "@types/jest": "^26.0.0",
+    "@types/jest": "^29.2.1",
     "@types/jest-image-snapshot": "^4.1.0",
     "@types/lodash": "^4.14.139",
     "@types/puppeteer": "^3.0.0",
